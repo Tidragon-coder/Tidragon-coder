@@ -24,12 +24,6 @@
 * 🎮 [API_Jeu](https://github.com/Tidragon-coder/API_Jeu) - API de jeux avec backend permettant de gérer plusieurs jeux (scores, états, multijoueur) un dashboard, et dans le futur des pages utilisateurs 
 
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tidragon-coder&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tidragon-coder&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Contact
